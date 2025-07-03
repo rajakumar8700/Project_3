@@ -29,3 +29,6 @@ To analyse and perform the data cleaning and creating a interactive Power BI das
 ## Tools and Technology Used:
 - **Power BI** – Data modeling, dashboards & reporting  
 - **Python (Pandas, Matplotlib, Seaborn)** – Data preprocessing and visualization  
+
+## Power BI Dashboard Data for Victoria
+![image](https://github.com/user-attachments/assets/f4a90890-67d7-40cb-9450-3c1880966a25)
