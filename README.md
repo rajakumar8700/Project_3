@@ -1,7 +1,7 @@
 # AusApparalSales4thQrt2020
 
 ## Project Objective:
-To analyse and perform the data cleaning and creating a interactive Power BI dashboard to analyse the sales trend for different groups(Male,Female,Kids,Senior) acroos different states.
+To analyse and perform the data cleaning and creating a interactive Power BI dashboard to analyse the sales trend for different groups(Male,Female,Kids,Senior) across different states.
 
   ## Dataset Used:
   - <a href= "https://github.com/rajakumar8700/Project_3/blob/main/__CLEANED__AusApparalSales4thQrt2020.csv">AusApparalSales4thQrt2020</a>
